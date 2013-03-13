@@ -8,3 +8,5 @@ The port contains a makefile which loads the binaries directly to the ram of the
 You can download it as a package from the Downloads tab: https://github.com/ESLab/FreeRTOS---PandaBoard/downloads
 
 This port was created by the Department of Information Technologies at Åbo Akademi University (https://research.it.abo.fi/)
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/43803b4faf68903b039254335894c3c9 "githalytics.com")](http://githalytics.com/ESLab/FreeRTOS---PandaBoard)
